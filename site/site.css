@@ -91,7 +91,7 @@
   src: local('Proxima Nova'), url('fonts/ProximaNova.ttf');
 }
 
-/* Custom CSS - none yet. */
+/* Custom CSS */
 .splitHorizontally {
   overflow: auto;
   color: rgba(0,0,0,0.5);
